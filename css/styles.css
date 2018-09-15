@@ -1,3 +1,10 @@
+:root {
+    --base: #c09f80;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+
 *, body, html {
     margin: 0;
     padding: 0;
@@ -16,11 +23,15 @@ h2 {
     margin: 20px auto;
 }
 
+input {
+    width: 100px;
+}
+
 img {
     margin: 35px auto;
-    padding: 25px;
-    border: 2px solid #c09f80; 
-    background-color: #c09f80; 
+    padding: var(--spacing);
+    background-color: var(--base); 
     width: 90vw;
     max-width: 900px;
+    filter: blur(var(--blur))
 }

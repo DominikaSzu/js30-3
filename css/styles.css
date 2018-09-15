@@ -23,6 +23,11 @@ h2 {
     margin: 20px auto;
 }
 
+.h1 {
+    color: var(--base);
+    font-size: 1.2em;
+}
+
 input {
     width: 100px;
 }

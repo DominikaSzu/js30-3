@@ -11,6 +11,11 @@ body {
     font-family: 'Julius Sans One', sans-serif;
 }
 
+
+h2 {
+    margin: 20px auto;
+}
+
 img {
     margin: 35px auto;
     padding: 25px;

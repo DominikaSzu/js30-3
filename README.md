@@ -1,6 +1,6 @@
 # js30-3
 
-This project is a third challenge from Wes Bos Javascript30.
+This project is a third challenge from Wes Bos Javascript30. This exercise is based on use of CSS variables.
 
 ## Code Dependencies
 
